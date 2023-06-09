@@ -168,7 +168,13 @@ body {
 .wrapper .telegram:hover span,
 .wrapper .telegram:hover .tooltip,
 .wrapper .telegram:hover .tooltip:before {
-    background: #0088CC;
+    background: #0088cc;
+}
+
+.wrapper .linkedin:hover span,
+.wrapper .linkedin:hover .tooltip,
+.wrapper .linkedin:hover .tooltip:before {
+    background: #0072b1;
 }
 
 
